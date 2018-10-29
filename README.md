@@ -21,5 +21,5 @@ npm run dev
 # Build
 
 ```
-npm run builds
+npm run build
 ```
