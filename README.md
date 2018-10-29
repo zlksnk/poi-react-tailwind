@@ -2,23 +2,20 @@
 
 A quick setup of Tailwind with React using Poi.
 
-# Install
+## Install
 
 ```
 npm i
-```
-
-```
 npm run tw:init
 ```
 
-# Use
+## Use
 
 ```
 npm run dev
 ```
 
-# Build
+## Build
 
 ```
 npm run build
