@@ -6,7 +6,7 @@ A quick setup of Tailwind with React using Poi.
 
 ```
 npm i
-npm run tw:init
+npx tailwind init
 ```
 
 ## Use
