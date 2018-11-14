@@ -8,6 +8,7 @@ module.exports = {
       purgecss({
         content: ["./src/**/*.js"],
         css: ["./src/**/*.css"]
-      })
+      }),
+    require("autoprefixer")
   ]
 };
