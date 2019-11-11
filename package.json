@@ -2,8 +2,8 @@
   "name": "frontend",
   "version": "0.0.1",
   "scripts": {
-    "dev": "poi dev",
-    "build": "NODE_ENV=production poi build"
+    "dev": "poi --serve",
+    "build": "poi --prod"
   },
   "author": "Ajit Singh",
   "license": "MIT",
@@ -21,6 +21,7 @@
     "eslint-plugin-react-hooks": "1.x",
     "poi": "^12.7.3",
     "prettier": "^1.14.3",
+    "react-hot-loader": "^4.12.16",
     "tailwindcss": "^1.1.3"
   },
   "dependencies": {
